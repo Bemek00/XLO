@@ -13,5 +13,5 @@ Umożliwia:
 
 ![Przegląd ogłoszeń](ss/strona_glowna.png)
 ![Rejestracja konta](ss/rejestracja.png)
-![Dodawanie ogłoszeń](ss/dodawanie_ogloszenia.png)
+![Dodawanie ogłoszeń](https://raw.githubusercontent.com/Bemek00/XLO/beta/ss/dodawanie_ogloszenia.PNG)
 ![Twoje ogłoszenia](ss/twoje_ogloszenia.png)
