@@ -11,7 +11,7 @@ Umożliwia:
 
 # Screenshots XLO
 
-![Przegląd ogłoszeń](ss/strona_glowna.png)
-![Rejestracja konta](ss/rejestracja.png)
+![Przegląd ogłoszeń](https://raw.githubusercontent.com/Bemek00/XLO/beta/ss/strona_glowna.PNG)
+![Rejestracja konta](https://raw.githubusercontent.com/Bemek00/XLO/beta/ss/rejestracja.PNG)
 ![Dodawanie ogłoszeń](https://raw.githubusercontent.com/Bemek00/XLO/beta/ss/dodawanie_ogloszenia.PNG)
-![Twoje ogłoszenia](ss/twoje_ogloszenia.png)
+![Twoje ogłoszenia](https://raw.githubusercontent.com/Bemek00/XLO/beta/ss/twoje_ogloszenia.PNG)
